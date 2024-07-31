@@ -1,3 +1,4 @@
 # Image-to-Ascii
 
-![Doom Ascii](./doom.jpg)
+![Doom](./doom.jpg)
+![Doom Ascii](./doom_ascii.PNG)
